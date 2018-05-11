@@ -1,0 +1,11 @@
+{
+  "name":"wtfat",
+  "version": "0.0.1",
+  "scripts":{
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "underscore": "^1.9.0"
+  }
+}
